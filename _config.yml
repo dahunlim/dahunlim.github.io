@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+title:             Dainel
+email:             dahun0101@gmail.com
+description:       Developer Dahun
+author:            Dahun Lim
 baseurl:           "/"
 url:               "http://dahunlim.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+# twitter_username:  SBootstrap
+github_username:   dahunlim
+facebook_username: dahun.lim
 
 # Build settings
 markdown:          kramdown
